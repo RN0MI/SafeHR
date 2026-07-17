@@ -35,11 +35,3 @@ This repository includes:
 - 🖼️ Overall Architecture Diagram
 - 🖼️ Use Case Diagram
 
-## Authors
-
-- Raneem Alharbi
-- Wesam Aljohani
-- Ahad Alanazi
-- Mona Almadi
-- Amal Alqarni
-- Asmaa Sahel
