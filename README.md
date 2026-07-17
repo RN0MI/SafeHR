@@ -5,8 +5,6 @@ A Secure-by-Design web-based Human Resource Management System developed with mod
 
 ## Secure Human Resource Management System
 
-SafeHR is a secure web-based Human Resource Management System developed as part of the **Secure Software (FC332)** course.
-
 The project was designed using a **Secure-by-Design** approach to protect sensitive employee information while providing essential HR services for organizations. Security was integrated throughout the system to ensure confidentiality, integrity, availability, and secure access to organizational data.
 
 ## Key Features
