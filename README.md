@@ -1,11 +1,12 @@
 # SafeHR
-A Secure-by-Design web-based Human Resource Management System developed with modern cybersecurity principles and security best practices.
 
-# SafeHR
+A secure web-based Human Resource Management System built using **Secure-by-Design** principles to safeguard employee data through modern cybersecurity technologies and best security practices.
 
-## Secure Human Resource Management System
+## Overview
 
-The project was designed using a **Secure-by-Design** approach to protect sensitive employee information while providing essential HR services for organizations. Security was integrated throughout the system to ensure confidentiality, integrity, availability, and secure access to organizational data.
+SafeHR is designed to streamline human resource operations while maintaining a strong security posture. The system integrates multiple cybersecurity controls to protect sensitive information, enforce secure access, and support the confidentiality, integrity, and availability of organizational data.
+
+By combining secure software development practices with industry security standards, SafeHR provides a reliable and resilient platform for modern HR management.
 
 ## Key Features
 
